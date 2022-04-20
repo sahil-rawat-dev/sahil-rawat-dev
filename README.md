@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil rawat</h1>
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
+<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-rawat-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-rawat-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-rawat-dev" alt="sahil-rawat-dev" /></a> </p>
