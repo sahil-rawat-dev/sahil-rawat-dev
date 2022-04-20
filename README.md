@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sahilrawat49200@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W5SNI2cKiart9llIRMV7hmrFWxQy9E99/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
